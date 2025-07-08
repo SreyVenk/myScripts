@@ -1,6 +1,5 @@
 #  Common Penetration Testing Payloads
-
-This README contains a list of commonly used scripts and payloads for penetration testing web applications. Use these for ethical hacking, CTFs, and security research in safe environments only.
+These are some common tests that I have found to be useful in my every day pen testing training.
 
 ---
 
